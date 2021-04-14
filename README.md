@@ -1,7 +1,11 @@
 ## Lambda para insertar el número de pedido en la imagen personalizada
-
 ### Requisitos
 - Node 14.x
+
+### Instalación
+```bash
+npm i composite-image
+```
 
 ### Todos los parámetros de la lambda
 ```bash
