@@ -5,6 +5,9 @@
 ### Instalación
 ```bash
 npm i composite-image
+
+#or install packages globally
+npm i -g composite-image
 ```
 
 ### Todos los parámetros de la lambda
